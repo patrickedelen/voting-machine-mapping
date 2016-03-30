@@ -12,6 +12,13 @@ This data is publicly available, but it is difficult to access. It is published 
 
 We will create a dataset of voting equipment and known vulnerabilities. We will also map the data.
 
+## Additional Features
+
+This project could also educate people on what to expect when they get to the polls from a simulator for their specific voting machine to a virtual ballot that allows them to easily reach the candidate's websites. 
+
+The voting machine map could be a one-stop-shop to get people ready to vote.
+
+
 ## To Do
 ### Research
 Our data is helpful, but incomplete. We will need help to:
@@ -26,6 +33,10 @@ Our data is helpful, but incomplete. We will need help to:
 ### Data Analysis
 - Count of voting machines and average age
 - What counties rely on the most varied tech (different types of voting machines)?
+
+### UX Development
+- Decide on a mapping service to suit the dataset
+- Evaluate most useful information and prioritize showing that
 
 
 ## Useful Links:
