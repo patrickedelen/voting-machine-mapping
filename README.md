@@ -38,6 +38,9 @@ Our data is helpful, but incomplete. We will need help to:
 - Decide on a mapping service to suit the dataset
 - Evaluate most useful information and prioritize showing that
 
+### Search Tool
+Voters should be able to search for their name and find their voting location. Harrisvotes.com has a search tool that could be used to search for precinct locations if we can get the API requests to work correctly.
+
 
 ## Useful Links:
 - [Current Vote Texas webform to educate citizens on voting machine availability by county and use](http://www.votetexas.gov/voting/how/)
